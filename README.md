@@ -39,6 +39,8 @@ This project serves as a practical application of different color syntax and sty
   transform: translateY(-8px);
   box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.35);
 }
+```
+
 📦 How to Run Locally
 Clone this repository:
 
